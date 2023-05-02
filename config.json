@@ -50,6 +50,11 @@
     ],
     "generators": [
         {
+            "name": "generator.cc",
+            "language": "cpp11",
+            "alias": "random_cc"
+        },
+        {
             "name": "generator_manual.py",
             "language": "py3",
             "alias": "manual"
@@ -58,11 +63,6 @@
             "name": "generator_without_testlib.py",
             "language": "py3",
             "alias": "random_py"
-        },
-        {
-            "name": "generator.cc",
-            "language": "cpp11",
-            "alias": "random_cc"
         }
     ],
     "genscript": [
