@@ -29,13 +29,8 @@
     "solutions": [
         {
             "name": "solution.cc",
-            "language": "cpp11",
+            "language": "cpp17",
             "type": "MCS"
-        },
-        {
-            "name": "solution_wa.cc",
-            "language": "cpp11",
-            "type": "WA"
         },
         {
             "name": "solution.py",
@@ -46,6 +41,11 @@
             "name": "solution_heuristic.cc",
             "language": "cpp11",
             "type": "AC/WA"
+        },
+        {
+            "name": "solution_wa.cc",
+            "language": "cpp11",
+            "type": "WA"
         }
     ],
     "generators": [
